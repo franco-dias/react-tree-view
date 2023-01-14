@@ -1,0 +1,1294 @@
+{
+  "options": [
+    {
+      "name": "Mecânica da campanha",
+      "options": [
+        {
+          "name": "Sobre a Junte & Troque",
+          "options": [
+            {
+              "name": "Site da campanha",
+              "options": [],
+              "text": "Para ficar por dentro da Campanha Shell Junte & Troque, acesse o site: www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "FAQ",
+              "options": [],
+              "text": "Para nossa FAQ, acesse o site: www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Regulamento",
+              "options": [],
+              "text": "Para ficar por dentro de todo regulamento, acesse o site: www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "O que é a campanha?",
+              "options": [],
+              "text": "A Junte & Troque O Ano Todo é uma campanha de venda de produtos exclusivos da Shell, que acontece por meio de atribuição das “conchas” (selos virtuais), exclusivamente nas compras realizadas nos Postos de Combustível Shell e Lojas Shell Select participantes, por meio do aplicativo Shell Box.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Qual o período da campanha?",
+              "options": [],
+              "text": "O período para acumular Conchas e efetuar a compra dos produtos exclusivos, a preço especial, será a partir das 10h00m do dia 30 de agosto de 2022 até as 23h59m do dia 23 de novembro de 2022 (horários de Brasília).",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Participantes",
+              "options": [
+                {
+                  "name": "Quem pode e quem não pode participar?",
+                  "options": [],
+                  "text": "Poderão realizar compras no e-commerce, através do site ou app Shell Box, todas as pessoas físicas, maiores de 18 (dezoito) anos, residentes e domiciliadas no Brasil. Para compras com conchas, é necessário cadastro no aplicativo Shell Box, concordando integralmente com o Regulamento da campanha e cumprindo as regras de participação. Para compras sem conchas, é necessário apenas o cadastro no site.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Sou colaborador de uma das empresas participantes. Posso participar?",
+                  "options": [],
+                  "text": "Sim, todas as pessoas físicas, maiores de 18 (dezoito) anos, residentes e domiciliadas no Brasil, cadastradas ou que venham a se cadastrar gratuitamente, poderão usufruir dos preços com desconto através do aplicativo Shell Box ao selecionarem a opção de “Participar automaticamente das promoções”.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Como participar da campanha?",
+              "options": [],
+              "text": "A cada R$ 30,00 (trinta reais) em compras ou abastecimentos (com Gasolina, Etanol, GNV, Família Shell V-Power), realizados por meio do aplicativo Shell Box, em qualquer Posto de Combustível Shell ou Lojas Shell Select participantes, em um único cupom fiscal, você ganha 1 (uma) concha (selo virtual) ou a cada R$ 60,00 (sessenta reais) em abastecimentos com Diesel (Diesel Evolux, Diesel S-10 Aditivado, Diesel S-500 Aditivado), realizados por meio do aplicativo Shell Box, em qualquer Posto de Combustível Shell participantes, em um único cupom fiscal, você ganha 1 (uma) concha (selo virtual), que poderá juntar e adquirir com desconto os produtos exclusivos Shell no site da campanha: www.shell.com.br/promocaoshell\r\nNão se esqueça de que, para garantir as suas conchas, você precisa entrar no aplicativo Shell Box e ativar no Menu Lateral > Minha Conta > “Promoções Shell – Participar Automaticamente”.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Cadastro",
+              "options": [
+                {
+                  "name": "Como me cadastrar na campanha?",
+                  "options": [],
+                  "text": "Antes mesmo de realizar a compra de qualquer produto participante, você deverá fazer o download do aplicativo Shell Box, gratuitamente, na Apple Store ou Play Store, cadastrar-se e ativar a opção “Participar Automaticamente das Promoções”.\r\nSe você já tem o app Shell Box, basta ativar a participação no Menu Lateral, na opção “Ajustes e Notificações” no aplicativo Shell Box e verificar se a caixa “Participar Automaticamente das Promoções” está ativa.\r\nAí é só juntar suas conchas (selos virtuais) e adquirir os produtos exclusivos participantes da campanha, através do site da campanha: https://www.shell.com.br/promoshell",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Já tenho cadastro no Aplicativo Shell Box. Como participar?",
+                  "options": [],
+                  "text": "Caso já tenha o seu cadastro no aplicativo Shell Box, você só precisa acessar no Menu Lateral, na opção “Ajustes e Notificações” no aplicativo Shell Box e verificar se a caixa “Participar Automaticamente das Promoções” está ativa. Aí é só começar a juntar suas conchas para trocar pelos produtos exclusivos Shell.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Postos e lojas Select participantes",
+              "options": [
+                {
+                  "name": "Todos os postos Shell e lojas Select participam da campanha?",
+                  "options": [],
+                  "text": "Não são todos os Postos e lojas Select que participam da promoção. Então, é fundamental que consulte a relação dos participantes listada no site www.shell.com.br/promocaoshell, ou, você estando no posto ou loja, confirme se a funcionalidade Shell Box está disponível antes de seguir com a compra.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Produto",
+          "options": [
+            {
+              "name": "Quais são os produtos Shell participantes da campanha?",
+              "options": [],
+              "text": "Preparamos diversos produtos do dia a dia para você conseguir aproveitar cada um e ainda juntar conchas.\r\n- Combustíveis comercializados nos Postos Shell participantes via Shell Box (Gasolina Comum, Etanol Comum, Diesel S-500 Comum, Diesel S-10 Comum, Shell V-Power Gasolina, Shell V-Power Etanol, Shell V-Power Racing, Shell Evolux Diesel S-500 e Shell Evolux Diesel S-10 e Gás Natural Veicular).\r\n- Produtos comercializados nas Lojas Shell Select participantes, excluídos medicamentos (conforme arts. 5º e 10º, RDC 96 da Anvisa), bebidas alcoólicas (teor alcoólico superior a 13º Gay-Lussac), fumos e seus derivados.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Quais são os produtos exclusivos que posso adquirir?",
+              "options": [],
+              "text": "Os produtos exclusivos Shell disponíveis para compra nesta coleção são:\r\n\r\nI. Smartband com três pulseiras – Um produto, três formas de usar. O relógio inteligente vem com três pulseiras: preta, vermelha e azul-marinho. Com ele, você monitora sua saúde, analisa seu progresso e aumenta sua motivação para conquistar uma vida mais balanceada.\r\nEquipado com monitoramento de frequência cardíaca, pressão arterial, sono e até oxigenação – a Smartband te dá maior controle da sua saúde, para você analisar seu progresso pessoal e dar aquele empurrão necessário rumo a uma vida com mais energia! A pulseira é feita de elastômero termoplástico e tem seu comprimento ajustável entre 150 e 200 mm. O monitor possui as dimensões de 47 x 18x 11 mm. A conectividade sem fio é via Bluetooth 4.0 BLE e é compatível com Android 5.0 e IOS 9.0 ou versões posteriores.\r\n\r\nII. Garrafa Inox – Perfeita para ter sempre com você, a Garrafa Inox é feita de material leve e resistente. Ótima opção para quem está tentando diminuir o uso de garrafas plásticas! A Garrafa Inox não absorve odores e não mancha. A companheira de jornada, ideal para usar na academia ou para o uso no seu escritório. Praticidade e consciência no seu dia a dia! Disponível em duas cores: branca e vermelha. Colecione! Feita em aço inoxidável, com acabamento fosco. Altura 269mm e diâmetro 70mm. Não é térmica.\r\n\r\nIII. Jaqueta Corta-Vento - Aquela peça coringa para usar em práticas esportivas, ou apenas para ter por perto quando bater um friozinho. De tecido leve e resistente, não amassa facilmente. Pensado para te acompanhar em qualquer momento, o tecido garante alta durabilidade, não amassa com facilidade e seca rápido – garantindo praticidade para sua rotina corrida. Possui gola alta, bolsos laterais e elástico nos pulsos e na barra, pela parte de trás. Disponível em quatro tamanhos: P, M, G e GG. Material da jaqueta: 100% poliéster. Material do zíper: Nylon.\r\n\r\nIV. Bolsa esportiva - Compacta e prática, essa bolsa é perfeita para a academia, trabalho ou viagens rápidas. Possui bolso central externo e bolso lateral invisível para guardar documentos ou itens menores. Esse produto conta ainda com alça de mão fixa e alça para ombro regulável e removível – para sua conveniência. Feita para durar por anos – seu tecido além de resistente, não amassa com facilidade. Na necessidade de lavar, a secagem da Bolsa Esportiva também é rápida. Pensada para quem está sempre em movimento e não tem tempo para algo que exija muita manutenção. Disponível em duas cores: vermelha e cinza. Colecione! Detalhes do produto: alça de ombro ajustável e removível, alça de mão, forro Interno, zíper em nylon resistente à água, bolso externo lateral, 100% Poliéster. Tamanho: 210mm X 390mm.\r\n\r\n* Produtos Importados pela Global Products Solutions Latins America Indústria e Comércio S.A. CNPJ nº 03.977.536/0001-50.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Como adquirir os produtos exclusivos sem participar da campanha?",
+              "options": [],
+              "text": "Você pode escolher não realizar o acúmulo de conchas e mesmo assim adquirir os produtos em nosso e-commerce. Eles estarão disponíveis para você no valor unitário, sem desconto. Após efetuar o cadastro no e-commerce Junte & Troque da Shell e escolher o produto desejado, será apresentada a opção de comprar com ou sem conchas.\r\n- Smartband com três pulseiras: R$ 179,90 (cento e setenta e nove reais e noventa centavos);\r\n- Garrafa Inox: R$ 89,90 (oitenta e nove reais e noventa centavos);\r\n- Bolsa esportiva: R$ 179,90 (cento e setenta e nove reais e noventa centavos);\r\n- Jaqueta corta-vento: R$ 259,90 (duzentos e cinquenta e nove reais e noventa centavos).",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Quantos produtos exclusivos eu posso resgatar durante a campanha?",
+              "options": [],
+              "text": "Você pode resgatar quantos produtos desejar da coleção.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Como devo receber o meu produto exclusivo adquirido?",
+              "options": [],
+              "text": "Você deve checar o recebimento dos produtos exclusivos da Junte & Troque da Shell no momento em que o entregador estiver em contato com você. A embalagem deverá estar lacrada, em perfeito estado. Verifique a integridade e funcionalidade no momento do recebimento.\r\nIdentificando qualquer problema, entre em contato nos canais de atendimento: e-mail promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Recebi meu produto e não sei como usá-lo. O que fazer?",
+              "options": [],
+              "text": "Cuidamos para que você tenha a melhor experiência possível com nossos produtos exclusivos.\r\nNo site da Junte & Troque da Shell https://promo.shell.com.br/junte-troque há um vídeo explicativo do produto.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Qual o prazo de garantia?",
+              "options": [],
+              "text": "O prazo de garantia de todos os produtos exclusivos da Junte & Troque da Shell é de 90 (noventa) dias corridos a partir do seu recebimento.\r\nImportante lembrar que por serem produtos exclusivos, não possuem assistência técnica, tampouco venda de peças e acessórios para reposição.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "O produto adquirido na Junte & Troque tem assistência técnica?",
+              "options": [],
+              "text": "Os produtos da Junte & Troque da Shell são exclusivos e, por isso, não possuem assistência técnica, tampouco venda de peças e acessórios para reposição.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Produto danificado ou com defeito. O que fazer?",
+              "options": [],
+              "text": "Você tem o prazo de 30 (trinta) dias para solicitar a troca do seu produto exclusivo. Você deverá entrar em contato pelo WhatsApp (11) 99675-5319, informar o CPF cadastrado, o telefone para contato e a descrição do problema apresentado no seu produto. Também deverá enviar fotos e/ou vídeos demonstrando o defeito encontrado. Nosso time de SAC irá te orientar como proceder. Dessa forma, faremos a primeira avaliação do produto. Caso não seja constatado o motivo do defeito nesse primeiro contato, realizaremos a logística reversa do produto, através de um código para postagem em uma agência dos Correios de sua escolha. Assim poderemos avaliar melhor o produto em questão. É imprescindível que o produto seja enviado da mesma maneira em que foi recebido, com manual e embalagem.\r\nSeu produto será analisado pelo nosso time técnico de qualidade. O prazo de análise é de até 15 (quinze) dias a partir da data de recebimento na Central de Distribuição. Caso seja identificado vício ou defeito de fabricação, enviaremos um novo produto para você, sem nenhum custo. No caso de identificarmos defeito ou vício por mau uso do produto, enviaremos novamente o mesmo produto e será cobrado um novo frente, para a devolução do mesmo. Após o pagamento do frete confirmado, seu produto será enviado novamente.\r\nSe o produto foi retirado em Lojas Shell Select e foi identificado vício ou defeito de fabricação, este não poderá ser deixado em nenhuma Loja Shell Select credenciada, sendo de responsabilidade do cliente levar e guardar o produto em sua residência e solicitar a substituição nos canais de atendimento de acordo com o passo a passo acima.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Posso trocar o produto após concluir a compra do meu pedido?",
+              "options": [],
+              "text": "Caso tenha necessidade de troca de produto, deverá solicitar dentro do prazo de 7 (sete) dias corridos, a partir da data de recebimento do pedido, através dos canais de atendimento e-mail promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319. No atendimento, serão passadas as orientações para troca e devolução do produto.\r\n\r\nAlgumas premissas para a devolução do produto:\r\n- O produto deve ser devolvido em sua embalagem original e em perfeito estado, sem nenhum dano ou avaria causado;\r\n- O produto deve ser devolvido com a Nota Fiscal, manual e acessórios.\r\n\r\nPara devolução do produto, será informado um código para postagem em uma agência dos Correios da sua escolha. O produto será submetido a uma análise de qualidade que pode levar até 15 (quinze) dias úteis, contados a partir da data do recebimento no Centro de Distribuição, para ser efetivada a troca do produto.\r\n\r\nNo prazo de até 7 (sete) dias corridos, você podera entrar em contat através dos canais de atendimento e-mail promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319. Onde serão passadas as orientações de cancelamento de compra e prazo de estorno. Assim, você poderá efetuar uma nova compra, com as alterações que desejar.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Compra",
+          "options": [
+            {
+              "name": "Como realizo a compra do(s) produto(s) exclusivo(s)?",
+              "options": [],
+              "text": "No site www.shell.com.br/promocaoshell ou pelo aplicativo Shell Box, desde que disponível você poderá escolher o(s) produto(s) exclusivo(s) que desejar adquirir (Smartband com três pulseiras, Garrafa Inox, Jaqueta Corta-vento, Bolsa Esportiva). Na sequência, selecionar a forma de pagamento e escolher dentre as opções de recebimento:\r\n\r\n(1) entrega no endereço de preferência (residencial ou comercial);\r\n(2) retirada em uma das Lojas Shell Select credenciadas e indicadas como ponto de retirada.\r\n\r\n*IMPORTANTE: Necessário um responsável, maior de 18 anos, no local indicado para entrega, para realizar o recebimento do pedido. Os envios acontecem via transportadora ou Correios, não havendo possibilidade de agendamento para entrega.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Posso comprar nos postos de combustível Shell ou loja Select?",
+              "options": [],
+              "text": "Os produtos exclusivos estarão disponíveis para compra somente no site: promo.shell.com.br/junte-troque, mas você poderá optar pela entrega em uma das Lojas Shell Select participante da Junte & Troque da Shell e realizar a retirada do pedido na Loja Shell Select escolhida, após receber a informação de “pedido disponível para retirada na loja”.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Conchas",
+          "options": [
+            {
+              "name": "Como faço para acumular conchas?",
+              "options": [],
+              "text": "1. Através do abastecimento com Gasolina, Etanol, GNV, Família Shell V-Power:\r\nA cada R$ 30,00 (trinta reais) em compras nas Lojas Shell Select ou abastecimento de veículos, realizado por meio do Aplicativo Shell Box em um Posto de Combustível Shell ou em uma Loja Shell Select participante, em um único cupom fiscal, você ganha 1 (uma) concha.\r\n- Exemplo 1: compra no valor de R$ 37,00 = 1 (uma) concha;\r\n- Exemplo 2: compra no valor de R$ 57,80 = 1 (uma) concha;\r\n- Exemplo 3: compra no valor de R$ 173,50 = 5 (cinco) conchas.\r\n\r\nPara acelerar o acúmulo de conchas, a partir de R$60,00 (sessenta reais) abastecidos com qualquer produto da família Shell V-Power, ou efetuando o pagamento com o cartão da bandeira Mastercard no Shell Box, você ganha uma concha extra.\r\n- Exemplo 1: abastecimento com produto Shell V-Power no valor de R$ 67,80 = 2 (duas) conchas + 1 (uma) concha extra por abastecer com V-Power. Totalizando 3 conchas;\r\n- Exemplo 2: abastecimento com produto Shell V-Power no valor de R$ 67,80, sendo o pagamento efetivado com o cartão Mastercard no Shell Box = 2 (duas) conchas + 2 (duas) conchas extras, pois abasteceu com V-Power e pagou com Mastercard. Totalizando 4 conchas;\r\n- Exemplo 3: abastecimento com produto Shell ou produto na Loja Shell Select no valor de R$ 67,80, sendo o pagamento efetivado com o cartão Mastercard no Shell Box = 2 (duas) conchas + 1 (uma) conchas extra, devido ao pagamento com Mastercard. Totalizando 3 conchas;\r\n- Exemplo 4: Compras em produtos na Loja Shell Select no valor de R$ 67,80, sendo o pagamento efetivado com o cartão Mastercard no Shell Box = 2 (duas) conchas + 1 (uma) concha extra, devido ao pagamento com Mastercard. Totalizando 3 conchas.\r\n\r\n2. Através do abastecimento com Diesel:\r\nA cada R$ 60,00 (sessenta reais) em abastecimento de veículos, com o DIESEL, realizado por meio do Aplicativo Shell Box em um Posto de Combustível Shell em um único cupom fiscal, você ganha 1 (uma) concha.\r\n- Exemplo 1: compra no valor de R$ 67,00 = 1 (uma) concha;\r\n- Exemplo 2: compra no valor de R$ 97,80 = 1 (uma) concha;\r\n- Exemplo 3: compra no valor de R$ 303,50 = 5 (cinco) conchas.\r\n\r\nPara acelerar o acúmulo de conchas, a partir de R$ 120,00 (cento e vinte reais) abastecidos com DIESEL EVOLUX, DIESEL – S10 aditivado ou DIESEL S-500 aditivado, ou efetuando o pagamento com o cartão da bandeira Mastercard no Shell Box, você ganha uma concha extra.\r\n- Exemplo 1: abastecimento com produto Diesel Evolux no valor de R$ 127,80 = 2 (duas) conchas + 1 (uma) concha extra por abastecer com Diesel Evolux. Totalizando 3 conchas;\r\n- Exemplo 2: abastecimento com Diesel Evolux no valor de R$ 127,80, sendo o pagamento efetivado com o cartão Mastercard no Shell Box = 2 (duas) conchas + 2 (duas) conchas extras, pois abasteceu com Diesel evolux e pagou com Mastercard. Totalizando 4 conchas;",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Qual a quantidade de conchas e o valor do produto para resgate?",
+              "options": [],
+              "text": "Jaqueta Corta-Vento: 35 conchas + R$ 119,90\r\nBolsa esportiva: 25 conchas + R$ 79,90\r\nSmartband: 15 conchas + R$ 69,90\r\nGarrafa Inox: 10 conchas + R$ 44,90",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Como acompanho minhas conchas (selos virtuais) acumuladas?",
+              "options": [],
+              "text": "Para acompanhar as transações e conchas acumuladas, o cliente precisa acessar o aplicativo Shell Box ou o site da campanha www.shell.com.br/promocaoshell, efetuar o seu login com a senha cadastrada e visualizar suas conchas. Caso seja o primeiro acesso, você deverá cadastrar uma senha para visualizar a área de acompanhamento da campanha.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Fiz uma compra e não houve acúmulo das minhas conchas. O que fazer?",
+              "options": [],
+              "text": "Caso não atualize após este período, você deve entrar em contato com a Central de Atendimento, através do 0800 728 1616 ou WhatsApp (19) 3401-2343.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Tem algum limite para juntar conchas (selos virtuais)?",
+              "options": [],
+              "text": "Temos apenas o limite de 30 conchas por transação para abastecimento com Diesel. Para os outros produtos, o acúmulo de conchas é ilimitado durante o período vigente da campanha.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Até quando posso juntar conchas (selos virtuais)?",
+              "options": [],
+              "text": "Você pode juntar suas conchas (selo virtual) até o último dia da campanha. Mas fique atento, pois a atribuição das conchas pode levar até 48 horas úteis.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Até quando posso trocar as minhas conchas (selos virtuais)?",
+              "options": [],
+              "text": "Você pode trocar suas conchas por um produto exclusivo quando desejar, enquanto tiver conchas na sua carteira digital e enquanto houver estoque de produtos.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Entrega",
+          "options": [
+            {
+              "name": "Quais são as opções de entrega?",
+              "options": [],
+              "text": "Você poderá escolher a modalidade de entrega no endereço que indicar ou retirar em uma das lojas Shell Select participantes. A lista das lojas disponíveis como ponto de retirada, assim como os prazos de entrega, estarão disponíveis no site, no momento da compra dos produtos.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Qual o valor do frete para a entrega?",
+              "options": [],
+              "text": "O custo do frete será adicionado à sua compra conforme endereço informado nas modalidades de envio: retirada Loja Select ou entrega na residência.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Prazo de entrega",
+              "options": [
+                {
+                  "name": "Qual o prazo para a entrega?",
+                  "options": [],
+                  "text": "O pedido pode levar até 60 dias úteis, contados a partir da data de confirmação do pagamento da compra, para a entrega no endereço selecionado ou retirada na loja Shell.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Onde posso acompanhar meu pedido?",
+                  "options": [],
+                  "text": "Você pode acompanhar o prazo de entrega e status da sua compra pelo site: www.shell.com.br/promoshell, na área MEUS PEDIDOS. Além disso, você receberá no seu e-mail cadastrado na promoção todas as etapas de evolução de seu resgate e a entrega de seu pedido.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Posso escolher qualquer endereço para receber o meu pedido?",
+              "options": [],
+              "text": "Sim, desde que o CEP seja atendido pela empresa logística ou pelos Correios.\r\nVale lembrar que é necessário que o endereço escolhido tenha um responsável para receber o pedido. Vamos realizar até 3 (três) tentativas de entrega no local indicado. Caso não seja encontrado ninguém nesse endereço, o produto retornará à nossa Central de Distribuição.\r\nNessa situação, pedimos que você solicite uma nova entrega através do e-mail promoshell@scoregroup.com.br ou direto do seu celular no número de WhatsApp (11) 99675-5319.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Estou fora da área de de entrega dos Correios, como recebo o meu pedido?",
+              "options": [],
+              "text": "Neste caso, o seu produto ficará disponível, por 10 (dez) dias corridos, para retirada em uma agência dos Correios mais próxima ao endereço cadastrado no site da campanha.\r\nCaso não retire dentro do prazo, o seu produto retornará para a nossa Central de Distribuição. Nesse caso, você deverá entrar em contato através do e-mail promoshell@scoregroup.com.br ou no WhatsApp (11) 99675-5319 para solicitar um novo envio.\r\nPara acompanhar a entrega a ser realizada pelos Correios, o código de rastreio será enviado para o e-mail e/ou WhatsApp cadastrado na compra.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "A entrega do meu pedido será via Correios, como posso acompanhar?",
+              "options": [],
+              "text": "Para acompanhar a entrega a ser realizada pelos Correios, o código de rastreio será enviado para o e-mail e/ou WhatsApp cadastrado.\r\n\r\nFique atento: caso o CEP não seja atendido pelos Correios; esteja localizado em área de risco; não atendida por eventualidades; o responsável não seja encontrado no local pelo entregador dos Correios; o produto ficará disponível por 10 (dez) dias corridos para retirada em uma agência dos Correios mais próxima ao endereço cadastrado. Na falta de retirada dentro deste prazo, o produto retornará ao Centro de Distribuição e você deverá entrar em contato através do e-mail promoshell@scoregroup.com.br ou no WhatsApp (11) 99675-5319 para solicitar o novo envio.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Quais são os dias/horários de entrega do pedido no endereço escolhido?",
+              "options": [],
+              "text": "As entregas ocorrem de segunda a sexta, das 8h às 18h, exceto feriados. Na modalidade Expresso, as entregas ocorrem de segunda a sexta das 8h às 21h, exceto feriados.\r\nAs entregas ocorrem somente com a presença de um responsável no local.\r\nPara acompanhar sua entrega, acesse o site https://promo.shell.com.br/junte-troque na área “MEUS PEDIDOS”.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Endereço de entrega errado ou quero trocar de endereço. O que fazer?",
+              "options": [],
+              "text": "Após saída para entrega, não há como alterar o endereço.\r\nO Cliente deverá confirmar o endereço cadastrado para entrega no momento da efetivação do resgate. Caso ocorra algum erro nos dados informados ou a solicitação de troca de endereço posterior ao resgate, o valor do frete não será reembolsado e outro frete será cobrado para envio ao novo endereço. Nestas situações, o pedido original será cancelado e um novo pedido será criado. O envio para o novo endereço ocorrerá após o retorno do produto a Central de Distribuição e pagamento do frete concluído, considerando o prazo de entrega a partir da nova emissão.\r\n\r\nNesse caso, você deverá em contato nos canais de atendimento e-mail promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319 para realizar a solicitação.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Retirada nas Lojas Select",
+              "options": [
+                {
+                  "name": "Escolhi retirar o produto em uma Loja Shell Select. Como devo proceder?",
+                  "options": [],
+                  "text": "Para retirar o seu pedido na Loja Shell Select escolhida é bem simples.\r\n\r\nAssim que o pedido for entregue pela transportadora, você será avisado através do e-mail cadastrado na Junte & Troque da Shell. Neste e-mail, será enviado um código de retirada do pedido que deverá ser apresentado à Loja Shell Select no momento da retirada. Você também pode acompanhar a entrega e ter acesso ao código de retirada do pedido pelo App Shell box ou pelo promo.shell.com.br/junte-troque, na área “MEUS PEDIDOS”.\r\n\r\nQuando você tiver esse código, basta ir até a Loja Shell Select escolhida e seguir o passo a passo para retirar o pedido com segurança:\r\n- Ao chegar na Loja Shell Select escolhida, procure o atendente e informe o seu nome completo e CPF para que ele confirme os dados e localize o seu pedido;\r\n- Acesse o APP Shell Box, clique no banner da Junte & Troque da Shell e vá na área \"MEUS PEDIDOS\";\r\n- Após, clique no botão “Ler QR code” que aparecerá ao final das instruções de retirada do pedido;\r\n- Abra a câmera do celular e leia o QR code que estará disponível na Loja Shell Select, ou solicite ao atendente o código da Loja Shell Select para preenchimento e liberação do pedido;\r\n-Confirme se os produtos que aparecerão para resgate estão corretos e clique em “Confirmar Recebimento”;\r\n-Mostre a tela de confirmação de retirada para o atendente, que te entregará todos os produtos adquiridos.\r\n\r\nPronto! Agora é só pegar e curtir o(s) seu(s) produto(s).\r\n\r\nDica: Anote o código de retirada para apresentar caso não leve o celular ou não tenha acesso ao App Shell Box no momento da retirada.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Quais os dias e horários de retirada nas Lojas Shell Select?",
+                  "options": [],
+                  "text": "Cada Loja Shell Select tem os dias e horários de funcionamento específicos. É importante que você verifique os dias e horários de funcionamento da Loja Shell Select escolhida por você nas comunicações que receberá pelo e-mail cadastrado na Junte & Troque da Shell, ou na área “MEUS PEDIDOS” no site ou no seu App Shell Box.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Até quando posso retirar o meu pedido nas Lojas Shell Select?",
+                  "options": [],
+                  "text": "A partir do comunicado enviado para o e-mail cadastrado na Junte & Troque da Shell que seu pedido está disponível para retirada, você terá 30 dias corridos para retirada do pedido. Caso não retire, o pedido poderá retornar para o nosso Centro de Distribuição.\r\nSe perder o prazo para retirada, você deverá entrar em contato nos canais de atendimento promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319, para que possa ser realizada a tratativa correta sobre o seu pedido.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Posso solicitar que um terceiro retire o meu produto?",
+                  "options": [],
+                  "text": "Para sua segurança, o ideal é que você mesmo retire o pedido.\r\nMas, se for necessário que outra pessoa retire, ela deverá informar o nome completo e número do CPF do titular do pedido para conferência, apresentar o seu documento pessoal com foto e informar o código de retirada do pedido, que você receberá pelo e-mail cadastrado na Junte & Troque da Shell e estará disponível no site promo.shell.com.br/junte-troque na área “MEUS PEDIDOS”, após a entrega pela transportadora na Loja Shell Select selecionada por você.",
+                  "action": {
+                    "queue": "",
+                    "redirect": ""
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            },
+            {
+              "name": "O meu produto não chegou na data prevista. O que fazer?",
+              "options": [],
+              "text": "Caso sua entrega não seja realizada dentro do prazo previsto ou não receba o código para retirada do pedido na Loja Shell Select escolhida, acesse o site https://promo.shell.com.br/junte-troque, na área “MEUS PEDIDOS” para acompanhar se ocorreu alguma atualização, ou entre em contato nos canais de atendimento e-mail promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319, informando o número do seu pedido ou CPF cadastrado.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pagamento/Reembolso",
+          "options": [
+            {
+              "name": "Quais as opções de pagamento?",
+              "options": [],
+              "text": "Após confirmar o resgate do produto selecionado, com e sem desconto de suas conchas (selos virtuais), você poderá escolher as seguintes formas de pagamento:\r\n- Pix;\r\n- Boleto bancário;\r\n- Cartão de crédito, em até 10x (dez vezes) sem juros.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Meu boleto venceu. O que fazer?",
+              "options": [],
+              "text": "Se seu boleto estiver vencido, o pedido será cancelado automaticamente e caso você tenha utilizado conchas em sua compra, elas serão estornadas em até 3 (três) dias úteis. Se o prazo para pagamento do boleto expirar, você deverá fazer um novo pedido no site da Junte & Troque da Shell.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Caso o pagamento não seja confirmado, terei as minhas conchas de volta?",
+              "options": [],
+              "text": "Se após o prazo de compensação da modalidade de pagamento escolhida, não for localizada a confirmação de pagamento do pedido, a compra será cancelada automaticamente e suas conchas retornarão em até 3 (três) dias úteis para a sua conta.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Qual o prazo para confirmação do pagamento?",
+              "options": [],
+              "text": "O prazo para confirmação do pagamento pode variar entre 1 (um) a 5 (cinco) dias úteis, dependendo da forma de pagamento escolhida, sendo: boleto bancário em até 5 (cinco) dias úteis, cartão de crédito em até 2 (dois) dias úteis e Pix em 1 (um) dia útil.\r\nVocê receberá, no e-mail cadastrado na Junte & Troque da Shell, a confirmação do pagamento e poderá acompanhar pelo site https://promo.shell.com.br/junte-troque na área “MEUS PEDIDOS”.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Receberei a nota fiscal junto ao meu produto?",
+              "options": [],
+              "text": "Sim. Você receberá junto com o seu pedido a Nota Fiscal simplificada. Além disso, sua Nota Fiscal será enviada no e-mail cadastrado na Junte & Troque da Shell. Com isso, até mesmo antes do seu produto chegar, você já terá a sua Nota Fiscal.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Como é feito o reembolso do valor após a devolução/cancelamento?",
+              "options": [],
+              "text": "A devolução do valor será realizada diretamente pela PagSeguro, operadora financeira da Campanha, após a solicitação e processo de cancelamento concluído pela realizadora.\r\nFique atendo à forma do reembolso:\r\n- Boleto bancário: para pagamentos realizados via “boleto bancário”, você deverá acessar o site www.pagseguro.com.br na opção “acesse sua conta”, utilizando o mesmo e-mail cadastrado na compra, ou na opção “criar conta”, informando o número de celular e o mesmo e-mail utilizado na compra. Ao finalizar o cadastro, poderá visualizar o valor disponível a recuperar.\r\n- Cartão de Crédito: para as transações com “cartão de crédito”, o estorno será efetuado de acordo com a data de fechamento da fatura do titular do cartão, podendo acontecer na fatura em aberto ou, se a fatura já estiver fechada, apenas na próxima, de acordo com a política da bandeira do cartão de crédito.\r\n- PIX: se sua compra foi realizada por PIX, o reembolso será feito diretamente na conta destino.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Devolução ou cancelamento da compra",
+          "options": [
+            {
+              "name": "Devolução ou cancelamento da compra? Como posso solicitar?",
+              "options": [],
+              "text": "Você pode solicitar a devolução em até 7 (sete) dias corridos após o recebimento do pedido, nos canais de atendimento e-mail promoshell@scoregroup.com.br ou WhatsApp (11) 99675-5319.\r\nNo atendimento passaremos as orientações sobre a devolução do produto e/ou estorno do valor da compra.\r\nAlgumas premissas para a devolução do produto:\r\n- O produto deve ser devolvido em sua embalagem original e em perfeito estado, sem nenhum dano ou avaria causado;\r\n- O produto deve ser devolvido com a Nota Fiscal, manual e acessórios.\r\nPara devolução do produto, será informado um código para postagem em uma agência dos Correios da sua escolha. O produto será submetido a uma análise de qualidade que pode levar até 15 (quinze) dias úteis, contados a partir da data do recebimento no Centro de Distribuição, para ser efetivado o estorno do valor do produto.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Outras dúvidas",
+          "options": [
+            {
+              "name": "Não encontrei resposta para minha dúvida. O que fazer?",
+              "options": [],
+              "text": "Caso não tenha encontrado a sua dúvida aqui, pedimos que entre em contato nos canais de atendimento. E-mail: promoshell@scoregroup.com.br, WhatsApp: (11) 99675-5319.",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meus pedidos",
+      "options": [
+        {
+          "name": "Alterar endereço",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Pagamento",
+          "options": [
+            {
+              "name": "Boleto",
+              "options": [
+                {
+                  "name": "Situação do meu pagamento",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Solicitação de boleto",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Meu pedido foi cancelado",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cartão de crédito",
+              "options": [
+                {
+                  "name": "Situação do meu pagamento",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Pagamento em duplicidade",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Meu pedido foi cancelado",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            },
+            {
+              "name": "PIX",
+              "options": [
+                {
+                  "name": "Situação do meu pagamento",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                },
+                {
+                  "name": "Meu pedido foi cancelado",
+                  "options": [],
+                  "text": "",
+                  "action": {
+                    "queue": "",
+                    "redirect": "[ATTEND] Validation"
+                  },
+                  "webLink": {
+                    "title": "",
+                    "description": "",
+                    "imageUrl": "",
+                    "url": ""
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cancelamento de compra",
+          "options": [
+            {
+              "name": "Quero desistir da compra",
+              "options": [],
+              "text": "",
+              "action": {
+                "queue": "",
+                "redirect": "[ATTEND] Validation"
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Meu estorno",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minha entrega",
+      "options": [
+        {
+          "name": "Situação da entrega",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Inconsistencia no recebimento",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Atraso na entrega",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Alteração de endereço de entrega",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Meu produto",
+      "options": [
+        {
+          "name": "Como usar",
+          "options": [
+            {
+              "name": "Jaqueta corta-vento",
+              "options": [],
+              "text": "É fácil usar, consulte o manual que se encontra no site: https://www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Bolsa esportiva",
+              "options": [],
+              "text": "É fácil usar, consulte o manual que se encontra no site: https://www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Smartband",
+              "options": [],
+              "text": "É fácil usar, consulte o manual que se encontra no site: https://www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            },
+            {
+              "name": "Garrafa inox",
+              "options": [],
+              "text": "É fácil usar, consulte o manual que se encontra no site: https://www.shell.com.br/promocaoshell",
+              "action": {
+                "queue": "",
+                "redirect": ""
+              },
+              "webLink": {
+                "title": "",
+                "description": "",
+                "imageUrl": "",
+                "url": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Prazo de garantia",
+          "options": [],
+          "text": "O prazo de garantia de todos os produtos exclusivos da Junte & Troque da Shell é de 90 (noventa) dias corridos a partir do seu recebimento.\r\nImportante lembrar que por serem produtos exclusivos, não possuem assistência técnica, tampouco venda de peças e acessórios para reposição.",
+          "action": {
+            "queue": "",
+            "redirect": ""
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Assistencia técnica",
+          "options": [],
+          "text": "Os produtos da campanha são exclusivos e não possuem assistência técnica, tampouco venda de peças e acessórios para reposição.",
+          "action": {
+            "queue": "",
+            "redirect": ""
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Reposição de peça",
+          "options": [],
+          "text": "Os produtos da campanha são exclusivos e não possuem assistência técnica, tampouco venda de peças e acessórios para reposição.",
+          "action": {
+            "queue": "",
+            "redirect": ""
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Desistência da compra",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Problema no produto",
+          "options": [],
+          "text": "",
+          "action": {
+            "queue": "",
+            "redirect": "[ATTEND] Validation"
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Outras dúvidas",
+      "options": [],
+      "text": "",
+      "action": {
+        "queue": "",
+        "redirect": "[ATTEND] Validation"
+      },
+      "webLink": {
+        "title": "",
+        "description": "",
+        "imageUrl": "",
+        "url": ""
+      }
+    },
+    {
+      "name": "App e promoções",
+      "options": [
+        {
+          "name": "Aplicativo Shell Box e outras promoções",
+          "options": [],
+          "text": "Para informações sobre o Aplicativo Shell Box e outras promoções você deve entrar em contato com a central de atendimento, através do e-mail: fale@raizen.com.br ou WhatsApp (19) 3401-2343.",
+          "action": {
+            "queue": "",
+            "redirect": ""
+          },
+          "webLink": {
+            "title": "",
+            "description": "",
+            "imageUrl": "",
+            "url": ""
+          }
+        }
+      ]
+    }
+  ]
+}
